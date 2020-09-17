@@ -14,6 +14,7 @@ char fuerza[20];
 char salud[20];
 } per[100];
 
+//Comentarios para probar un segundo commit
 
 	int i,n,mayor = 0,pos;
 	
